@@ -1,1 +1,14 @@
-theme: jekyll-theme-minimal
+remote_theme : pages-themes/minimal
+
+# Site Settings
+locale                   : "en-US"
+title                    : "OpenFOAM?"
+title_separator          : "-"
+name                     : "Jin"
+description              : "Jin's github page"
+url                      : "https://zhzhboy.github.io" # the base hostname & protocol for your site e.g.
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g.
+logo: /assets/img/logo.png
+show_downloads: true
+google_analytics:
