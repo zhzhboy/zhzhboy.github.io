@@ -1,8 +1,8 @@
 ---
-title: "2019-12-11-WSL-setting"
+title: "WSL2 설정법"
 date: 2019-12-11T18:32:00-05:00
 categories:
-  - Example
+  - 개발환경
 tags:
   - Jekyll
   - update
