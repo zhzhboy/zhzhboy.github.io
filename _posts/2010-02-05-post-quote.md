@@ -1,7 +1,7 @@
 ---
 title: "Post: Quote"
 categories:
-  - Blog
+  - Example
 tags:
   - Post Formats
   - quote
