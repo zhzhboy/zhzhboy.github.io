@@ -1,6 +1,6 @@
 ---
 title: "2019-12-11-WSL-setting"
-date: 2019-12-11
+date: 2019-12-11T18:32:00-05:00
 categories:
   - Example
 tags:
