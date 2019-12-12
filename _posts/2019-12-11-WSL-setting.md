@@ -10,10 +10,9 @@ tags:
 
 ## WSL 설정 
 WSL2를 사용하기 위해 Windows 10 빌드 18917 이상인지 확인
-'''bash
+    bash
 #Windows 빌드 확인
 ver
-'''
 
 WSL 활성화
 '''bash
