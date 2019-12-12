@@ -13,7 +13,7 @@ tags:
 
   ```bash
   #Windows 빌드 확인
-  ver
+  > ver
   ```
 
 ### - WSL 활성화 명령어
@@ -21,12 +21,15 @@ tags:
   {: .notice--primary}
   ```bash
   #Windows 가상 머신 활성화
-  dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
-  dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+  > dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+  > dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
   ```
 
 ### - Linux 배포판 설치
-
+  * Microsoft Store에서 다운로드 및 설치
+  * 명령줄/스크립트에서 다운로드 및 설치
+  * 다운로드 및 수동으로 압축을 푼 후 설치
+  {: .notice--primary}
 
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
