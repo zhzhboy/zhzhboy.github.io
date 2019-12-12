@@ -29,7 +29,9 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 ```
 
 * Linux 배포판 설치
+
 ** Linux 배포판 설치
+
 *** Linux 배포판 설치
 
 
