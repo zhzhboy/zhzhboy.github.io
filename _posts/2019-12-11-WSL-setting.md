@@ -16,15 +16,16 @@ tags:
   ver
   ```
 
-### WSL 활성화 명령어
+### - WSL 활성화 명령어
   가상 컴퓨터 플랫폼 옵션 구성 요소 사용 설정 / WSL 사용 설정
+  {: .notice--primary}
   ```bash
   #Windows 가상 머신 활성화
   dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
   dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
   ```
 
-### Linux 배포판 설치
+### - Linux 배포판 설치
 
 
 
