@@ -17,11 +17,13 @@ tags:
 ver
 ```
 
-WSL 활성화
+**요구사항:** '가상 컴퓨터 플랫폼 옵션 구성 요소 사용 설정 / WSL 사용 설정
+
+* WSL 활성화
 ```bash
 #Windows 가상 머신 활성화
-Enable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform
-wsl --set-version Ubuntu 2
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
