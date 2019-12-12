@@ -9,27 +9,30 @@ tags:
 ---
 ### - Windows 빌드 버전 확인
   **요구사항:** WSL2를 사용하기 위해 Windows 10 빌드 18917 이상인지 확인
-  {: .notice--primary}
+  {: .notice--info}
 
   ```bash
   #Windows 빌드 확인
   > ver
   ```
+***
 
 ### - WSL 활성화 명령어
   가상 컴퓨터 플랫폼 옵션 구성 요소 사용 설정 / WSL 사용 설정
-  {: .notice--primary}
+  {: .notice--info}
   ```bash
   #Windows 가상 머신 활성화
   > dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
   > dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
   ```
+***
 
 ### - Linux 배포판 설치
   * Microsoft Store에서 다운로드 및 설치
   * 명령줄/스크립트에서 다운로드 및 설치
   * 다운로드 및 수동으로 압축을 푼 후 설치
-  {: .notice--primary}
+  {: .notice--info}
+***
 
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
