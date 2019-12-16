@@ -9,13 +9,13 @@ tags:
 ---
 ### - Ubuntu source list 변경
 
-  {% capture notice--info %}
+  {% capture notice-2 %}
   **파일위치:** /etc/apt/sources.list
   **변경내용:** archive.ubuntu.com > mirror.kakao.com
   {% endcapture %}
 
   <div class="notice">
-    {{ notice--info | markdownify }}
+    {{ notice-2 | markdownify }}
   </div>
 
   ***Shell***
