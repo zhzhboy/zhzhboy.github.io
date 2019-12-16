@@ -18,13 +18,13 @@ tags:
     {{ notice-2 | markdownify }}
   </div>
 
-  ***Shell***
+  #### Shell
   ```bash
   #sources.list 열기
   > sudo vi /etc/apt/sources.list
   ```
 
-  ***vi***
+  #### vi
   ```bash
   #주소 변경
   > :%s/archive.ubuntu.com/mirror.kakao.com
