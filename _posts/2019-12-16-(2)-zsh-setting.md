@@ -8,6 +8,18 @@ tags:
   - OpenFOAM
 ---
 ### - Ubuntu source list 변경
+  
+  {% capture notice-2 %}
+  #### New Site Features
+
+  * You can now have cover images on blog pages
+  * Drafts will now auto-save while writing
+  {% endcapture %}
+
+  <div class="notice">
+    {{ notice-2 | markdownify }}
+  </div>
+
 
   {% capture notice-2 %}
   **파일위치:** /etc/apt/sources.list
