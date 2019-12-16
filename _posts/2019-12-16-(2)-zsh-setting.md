@@ -10,10 +10,8 @@ tags:
 ### - Ubuntu source list 변경
   
 {% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
+* **파일위치:** /etc/apt/sources.list
+* **변경내용:** archive.ubuntu.com > mirror.kakao.com
 {% endcapture %}
 
 <div class="notice">
