@@ -9,41 +9,41 @@ tags:
 ---
 ### - Ubuntu source list 변경
   
-  {% capture notice-2 %}
-  #### New Site Features
+{% capture notice-2 %}
+#### New Site Features
 
-  * You can now have cover images on blog pages
-  * Drafts will now auto-save while writing
-  {% endcapture %}
+* You can now have cover images on blog pages
+* Drafts will now auto-save while writing
+{% endcapture %}
 
-  <div class="notice">
-    {{ notice-2 | markdownify }}
-  </div>
+<div class="notice">
+  {{ notice-2 | markdownify }}
+</div>
 
 
-  {% capture notice-2 %}
-  **파일위치:** /etc/apt/sources.list
-  **변경내용:** archive.ubuntu.com > mirror.kakao.com
-  {% endcapture %}
+{% capture notice-2 %}
+**파일위치:** /etc/apt/sources.list
+**변경내용:** archive.ubuntu.com > mirror.kakao.com
+{% endcapture %}
 
-  <div class="notice">
-    {{ notice-2 | markdownify }}
-  </div>
+<div class="notice">
+  {{ notice-2 | markdownify }}
+</div>
 
-  #### Shell
-  ```bash
-  #sources.list 열기
-  > sudo vi /etc/apt/sources.list
-  ```
+#### Shell
+```bash
+#sources.list 열기
+> sudo vi /etc/apt/sources.list
+```
 
-  #### vi
-  ```bash
-  #주소 변경
-  > :%s/archive.ubuntu.com/mirror.kakao.com
+#### vi
+```bash
+#주소 변경
+> :%s/archive.ubuntu.com/mirror.kakao.com
 
-  #저장 후 종료
-  > :wq
-  ```
+#저장 후 종료
+> :wq
+```
 ***
 
 ### - zsh 설치
