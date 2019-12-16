@@ -7,13 +7,13 @@ tags:
   - WSL
   - OpenFOAM
 ---
-### - Windows 빌드 버전 확인
+### - Hyper 내부 옵션 변경
   **설정사항:** WSL2를 Hyper에서 열기 위해 경로 설정 등 필요
   **ctrl + , 로 옵션 열기**
   {: .notice--info}
 
   ```
-  #hyper 내부 옵선
+  #hyper 내부 옵션
   // Future versions of Hyper may add additional config options,
   // which will not automatically be merged into this file.
   // See https://hyper.is#cfg for all currently supported options.

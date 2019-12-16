@@ -17,7 +17,7 @@ tags:
   > sudo vi /etc/apt/sources.list
   ```
 
-  ```vi
+  ```bash
   #주소 변경
   > :%s/archive.ubuntu.com/mirror.kakao.com
 
