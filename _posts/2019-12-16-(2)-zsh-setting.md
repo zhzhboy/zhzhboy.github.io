@@ -9,15 +9,17 @@ tags:
 ---
 ### - Ubuntu source list 변경
   **파일위치:** /etc/apt/sources.list
-  
+
   **변경내용:** archive.ubuntu.com > mirror.kakao.com
   {: .notice--info}
 
+  ***Shell***
   ```bash
   #sources.list 열기
   > sudo vi /etc/apt/sources.list
   ```
 
+  ***vi***
   ```bash
   #주소 변경
   > :%s/archive.ubuntu.com/mirror.kakao.com
