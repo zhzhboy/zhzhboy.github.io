@@ -38,14 +38,14 @@ tags:
   ```bash
   #Linux 배포판 WSl2 설정
   # <Distro>에 Linux 배포판 이름 삽입
-  wsl --set-version <Distro> 2
+  > wsl --set-version <Distro> 2
   ```
 ***
 
 ### - Linux 배포판 WSL 버전 확인
   ```bash
   #Linux 배포판 WSL 버전 확인
-  wsl -l -v
+  > wsl -l -v
   ```
 ***
 
