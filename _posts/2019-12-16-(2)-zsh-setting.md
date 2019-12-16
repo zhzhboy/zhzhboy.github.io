@@ -8,10 +8,15 @@ tags:
   - OpenFOAM
 ---
 ### - Ubuntu source list 변경
-  **파일위치:** /etc/apt/sources.list
 
+  {% capture notice--info %}
+  **파일위치:** /etc/apt/sources.list
   **변경내용:** archive.ubuntu.com > mirror.kakao.com
-  {: .notice--info}
+  {% endcapture %}
+
+  <div class="notice">
+    {{ notice--info | markdownify }}
+  </div>
 
   ***Shell***
   ```bash
