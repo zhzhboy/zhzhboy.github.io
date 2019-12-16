@@ -37,9 +37,18 @@ tags:
 ### - Linux 배포판을 WSL2로 설정 
   ```bash
   #Linux 배포판 WSl2 설정
+  # <Distro>에 Linux 배포판 이름 삽입
   wsl --set-version <Distro> 2
   ```
 ***
+
+### - Linux 배포판 WSL 버전 확인
+  ```bash
+  #Linux 배포판 WSL 버전 확인
+  wsl -l -v
+  ```
+***
+
 
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
