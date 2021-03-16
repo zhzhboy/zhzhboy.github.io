@@ -1,14 +1,18 @@
 ---
 layout: page
-title: Docsy Jekyll Theme
+title: OpenFOAM?
 permalink: /
 ---
 
-# Welcome to Docsy Jekyll
+# OpenFOAM trouble shooting
 
-This is a starter template for a docsy jekyll theme.
+install ~ running ~ error
 
-![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
+<img src="assets/img/1.Ref_hysing_microBubbles.gif" alt="gif1"  width="10%" height="10%"/>
+<img src="assets/img/2.airD_hysing_microBubbles_noPhaseTransfer.gif" alt="gif2"  width="10%" height="10%"/>
+<img src="assets/img/3.airD_hysing_microBubbles_noPhaseTransfer_fine.gif" alt="gif3"  width="10%" height="10%"/>
+<img src="assets/img/4.airD_hysing_microBubbles_phaseTransfer.gif" alt="gif4"  width="10%" height="10%"/>
+<img src="assets/img/5.airD_hysing_microBubbles_phaseTransfer_fine.gif" alt="gif5"  width="10%" height="10%"/>
 
 ## Purpose
 
