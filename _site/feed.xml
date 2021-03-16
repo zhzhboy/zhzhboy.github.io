@@ -4,10 +4,10 @@
     <title>OpenFOAM</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://localhost:4000/blog/</link>
-    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Mar 2021 15:41:56 +0900</pubDate>
-    <lastBuildDate>Tue, 16 Mar 2021 15:41:56 +0900</lastBuildDate>
+    <link>http://localhost:4000/docs/</link>
+    <atom:link href="http://localhost:4000/docs/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 16 Mar 2021 15:48:01 +0900</pubDate>
+    <lastBuildDate>Tue, 16 Mar 2021 15:48:01 +0900</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -149,8 +149,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 03 Dec 2020 19:15:00 +0900</pubDate>
-        <link>http://localhost:4000/blog/2020/c++_comment/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2020/c++_comment/</guid>
+        <link>http://localhost:4000/docs/2020/c++_comment/</link>
+        <guid isPermaLink="true">http://localhost:4000/docs/2020/c++_comment/</guid>
         
         <category>OpenFOAM</category>
         
@@ -226,8 +226,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Tue, 17 Dec 2019 00:22:00 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/(2)-zsh-setting/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/(2)-zsh-setting/</guid>
+        <link>http://localhost:4000/docs/2019/(2)-zsh-setting/</link>
+        <guid isPermaLink="true">http://localhost:4000/docs/2019/(2)-zsh-setting/</guid>
         
         <category>zsh</category>
         
@@ -417,8 +417,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Tue, 17 Dec 2019 00:21:00 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/(1)-hyper-setting/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/(1)-hyper-setting/</guid>
+        <link>http://localhost:4000/docs/2019/(1)-hyper-setting/</link>
+        <guid isPermaLink="true">http://localhost:4000/docs/2019/(1)-hyper-setting/</guid>
         
         <category>WSL</category>
         
@@ -471,8 +471,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Tue, 17 Dec 2019 00:10:00 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/WSL-setting/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/WSL-setting/</guid>
+        <link>http://localhost:4000/docs/2019/WSL-setting/</link>
+        <guid isPermaLink="true">http://localhost:4000/docs/2019/WSL-setting/</guid>
         
         <category>WSL</category>
         
@@ -794,8 +794,8 @@ __double underscores__
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 13 Dec 2019 17:34:00 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/Mark-Down/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/Mark-Down/</guid>
+        <link>http://localhost:4000/docs/2019/Mark-Down/</link>
+        <guid isPermaLink="true">http://localhost:4000/docs/2019/Mark-Down/</guid>
         
         <category>github</category>
         
@@ -813,8 +813,8 @@ __double underscores__
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Jun 2019 03:52:21 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/hello-world/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/hello-world/</guid>
+        <link>http://localhost:4000/docs/2019/hello-world/</link>
+        <guid isPermaLink="true">http://localhost:4000/docs/2019/hello-world/</guid>
         
         
         <category>jekyll</category>
@@ -843,8 +843,8 @@ __double underscores__
 
 </description>
         <pubDate>Fri, 28 Jun 2019 19:52:21 +0900</pubDate>
-        <link>http://localhost:4000/blog/2019/welcome/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/welcome/</guid>
+        <link>http://localhost:4000/docs/2019/welcome/</link>
+        <guid isPermaLink="true">http://localhost:4000/docs/2019/welcome/</guid>
         
         
         <category>jekyll</category>
@@ -864,8 +864,8 @@ __double underscores__
 &lt;p&gt;Some &lt;a href=&quot;#&quot;&gt;link&lt;/a&gt; can also be shown.&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Mar 2010 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/blog/2010/post-link/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2010/post-link/</guid>
+        <link>http://localhost:4000/docs/2010/post-link/</link>
+        <guid isPermaLink="true">http://localhost:4000/docs/2010/post-link/</guid>
         
         <category>link</category>
         
@@ -889,8 +889,8 @@ __double underscores__
 &lt;/blockquote&gt;
 </description>
         <pubDate>Fri, 05 Feb 2010 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/blog/2010/post-quote/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2010/post-quote/</guid>
+        <link>http://localhost:4000/docs/2010/post-quote/</link>
+        <guid isPermaLink="true">http://localhost:4000/docs/2010/post-quote/</guid>
         
         <category>Post Formats</category>
         
@@ -958,8 +958,8 @@ __double underscores__
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 05 Feb 2010 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/blog/2010/post-notice/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2010/post-notice/</guid>
+        <link>http://localhost:4000/docs/2010/post-notice/</link>
+        <guid isPermaLink="true">http://localhost:4000/docs/2010/post-notice/</guid>
         
         <category>Post Formats</category>
         

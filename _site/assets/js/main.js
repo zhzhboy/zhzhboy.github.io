@@ -45,7 +45,7 @@
                         return
                     }
                     var query = $(this).val();
-                    var searchPage = "http://localhost:4000/blog/search/?q=" + query;
+                    var searchPage = "http://localhost:4000/docs/search/?q=" + query;
                     document.location = searchPage;
                     return false;
                 });
